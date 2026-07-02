@@ -1,0 +1,6 @@
+{
+  "name": "Volt & Screw Co.",
+  "description": "Professional bill, stock, and smart photo-based price lookup application for electrical and hardware retail shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
